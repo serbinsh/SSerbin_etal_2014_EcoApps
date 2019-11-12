@@ -6,7 +6,7 @@ Leaf spectra-trait PLSR models to estimate foliar functional traits from dried a
 
 2) Article supplemental materials
 
-3) An example PLSR model fitting R script
+3) An example simplified PLSR model fitting R script
 
 4) R script vignettes showing how to apply the PLSR models to new observations
 
